@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning Azure
+
+- 💬 Ask me about Microsoft enterprise product.
+
+- 📫 You can reach me on [my LinkedIn](https://www.linkedin.com/in/joaovascopereira/)
+
+
+
 <!--
 **theJvp/theJvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
